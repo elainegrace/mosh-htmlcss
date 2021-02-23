@@ -619,6 +619,7 @@ an image BEFORE the content of the
 
 .block__header {
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .block__heading {
