@@ -900,3 +900,8 @@ an image BEFORE the content of the
     font-size: 1.6rem;
   }
 }
+
+/* Signup Callout */
+.callout-signup {
+  transform: translateY(5rem);
+}
